@@ -1,0 +1,48 @@
+.grid > .sixteen {
+	width: 100%;
+}
+.grid > .fifteen {
+  width: 93.75%;
+}
+.grid > .fourteen {
+  width: 87.50%;
+}
+.grid > .thirdteen {
+  width: 81.125%;
+}
+.grid > .twelve {
+  width: 75%;
+}
+.grid > .eleven {
+  width: 68.75%;
+}
+.grid > .ten {
+  width: 62.50%;
+}
+.grid > .nine {
+  width: 56.25%;
+}
+.grid > .eight{
+  width: 50.00%;
+}
+.grid > .seven {
+  width: 43.75%;
+}
+.grid > .six {
+  width: 37.50%;
+}
+.grid > .five {
+  width: 31.25%;
+}
+.grid > .four{
+  width: 25%;
+}
+.grid > .three {
+  width: 18.75%;
+}
+.grid > .two {
+  width: 12.50%;
+}
+.grid > .one {
+  width: 6.25%;
+}

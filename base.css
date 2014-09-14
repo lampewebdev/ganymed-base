@@ -1,0 +1,11 @@
+.grid{
+  font-family: FreeSans, Arimo, "Droid Sans", Helvetica, Arial, sans-serif;
+
+  display: -webkit-flex;
+  -webkit-flex-flow: row wrap;
+  text-rendering: optimizespeed; /* Webkit: fixes text-rendering: optimizeLegibility */
+
+  /* IE10 uses display: flexbox */
+  display: -ms-flexbox;
+  -ms-flex-flow: row wrap;
+}
