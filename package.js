@@ -3,7 +3,7 @@ Package.describe({
   summary: "A CSS Framework for Meteor",
   version: "0.0.1",
   name: "ganymed:base",
-  git: "https://github.com/something/something.git",
+  git: "https://github.com/lampe/ganymed-base",
 });
 
 Package.onUse(function (api) {
