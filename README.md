@@ -5,7 +5,8 @@
 
 ## Goal:
 Build a modular CSS Framework that works with Meteor.
-The basic idea is that you dont need things like Forms or Tables in some Project so why load them if you will never use them?
+The basic idea is that you dont need things like Forms or Tables in some Projects.
+So why load them if you will never use them?
 So just add the Ganymed Base and the Components that you need.
 
 ## plans for 0.1.0:
@@ -14,3 +15,6 @@ So just add the Ganymed Base and the Components that you need.
 - Think about how to make it modular in a nice way
 - Test Test Test !
 - add some CSS Utils like: center, hidden, right, left etc..
+
+## Core Components:
+- Button-unstyled: https://github.com/lampe/ganymed-button-unstyled
