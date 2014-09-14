@@ -9,3 +9,22 @@
   display: -ms-flexbox;
   -ms-flex-flow: row wrap;
 }
+
+.centerElement{
+  margin:0 auto;
+}
+
+.centerText{
+  text-align:center;
+}
+
+.centerImg{
+  display:block;
+  margin:0 auto;
+}
+
+.resImg {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}

@@ -1,7 +1,7 @@
 ### Ganymed CSS Framework
 !!!! THIS IS STILL A PRE ALPHA VERY EARLY TEST !!!!
 
-!!!!!!!! DONT USE IS IN ANY PRODUCTION APP !!!!!!!!
+!!!!!!!! DONT USE IT IN ANY PRODUCTION APP !!!!!!!!
 
 ## Goal:
 Build a modular CSS Framework that works with Meteor.
